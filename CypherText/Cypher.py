@@ -60,7 +60,7 @@ while not end_cypher:
                 normal_text += right_letter
             else:
                 normal_text += letter
-        print(f'The deecoded text is {normal_text}\n\n')
+        print(f'The decoded text is {normal_text}\n\n')
 
     if (direction == "encrypt"):
         encrypt(text=text_to_cypher, shift_number=shift)
