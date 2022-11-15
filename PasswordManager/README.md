@@ -1,4 +1,4 @@
-This is a Password Manager, tu use a simple and secure code. 
+This is a Password Manager to use a simple and secure code. 
 To install the modules required, run:
 ```
 pip install -r requirements.txt
